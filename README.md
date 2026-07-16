@@ -80,34 +80,27 @@
 
 # 🌐 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:akashmohanraj333@gmaill.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/AKASH-M-hub">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/AKASH-M-hub" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://akash-my-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
-
 # 💻 Tech Stack
 
 ## 💡 Languages
@@ -120,20 +113,35 @@
 
 ## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
+
+</div>
+
+---
 # 🛠️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma"/>
@@ -174,15 +182,29 @@
 
 # 📊 Coding Activity
 
+<div align="center">
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
 
-<br>
+<table>
+<tr>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
+</td>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight"/>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight"/>
+</td>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
