@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </div>
 
@@ -74,42 +74,42 @@
 
 ## 💡 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql" style="pointer-events: none;" draggable="false"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql"/>
 
 ## ⚙️ Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres" style="pointer-events: none;" draggable="false"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres"/>
 
 ## 🤖 AI / Machine Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
 
 </div>
 
 ---
 # 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma" style="pointer-events: none;" draggable="false"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma"/>
 
 ---
 
@@ -137,11 +137,11 @@
 
 # 📊 GitHub Overview
 
-<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6" style="pointer-events: none;" draggable="false"/>
+<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge&color=blue" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow" style="pointer-events: none;" draggable="false"/>
+<img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow"/>
 
 ---
 
@@ -149,21 +149,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
 
 <table>
 <tr>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
 </td>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight"/>
 </td>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5" style="pointer-events: none;" draggable="false"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
 </td>
 
 </tr>
