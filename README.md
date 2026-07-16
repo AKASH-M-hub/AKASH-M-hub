@@ -827,10 +827,4 @@ I'd love to collaborate.
 
 </p>
 
-<div align="center">
-
-> **"The future belongs to those who build intelligence, not just software."**
-
-</div>
-
 ---
