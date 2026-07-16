@@ -78,29 +78,7 @@
 
 ---
 
-# 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:akashmohanraj333@gmaill.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AKASH-M-hub" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
 # 💻 Tech Stack
 
 ## 💡 Languages
@@ -359,19 +337,7 @@ One Link. Powered by Context.
 
 ---
 
-# 🏆 Achievements
 
-| 🏅 Achievement | Status |
-|---------------|:------|
-| 🚀 Built Multiple AI & Machine Learning Applications | ✅ |
-| 🏆 Hackathon Finalist | ✅ |
-| 🎓 AI & Data Science Undergraduate | ✅ |
-| ☕ Oracle Java SE 21 Certified | ✅ |
-| 💼 HCL Campus Ambassador | ✅ |
-| 🤖 Exploring Agentic AI & RAG Systems | 🚀 |
-| 📚 Solving Data Structures & Algorithms Daily | 💯 |
-
----
 
 # 🌟 My Journey
 
