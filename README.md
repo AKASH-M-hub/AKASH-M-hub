@@ -6,7 +6,6 @@
 
 # 👋 Hi, I'm Akash Mohanraj
 
-### AI Engineer • Machine Learning • Data Science • Full Stack Development
 
 <img width="92%" src="./images/intro-preview.gif" alt="Looping intro preview"/>
 
