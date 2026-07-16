@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:akashmohanraj333@gmaill.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
+<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -227,8 +227,8 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="mailto:akashmohanraj333@gmaill.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
+<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
