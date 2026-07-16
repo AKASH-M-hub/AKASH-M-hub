@@ -4,11 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=AKASH%20MOHANRAJ&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20Engineer%20|%20Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<video controls autoplay muted loop playsinline style="width: 100%; max-width: 1200px; border-radius: 18px; display: block; margin: 0 auto;">
+<source src="./videos/Screen%20Recording%202026-07-16%20210355.mp4" type="video/mp4">
+</video>
 
 # 👋 Hi, I'm Akash Mohanraj
 
-### 🚀 AI Engineer • Machine Learning • Data Science • Full Stack Development
+### AI Engineer • Machine Learning • Data Science • Full Stack Development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New"/>
 
