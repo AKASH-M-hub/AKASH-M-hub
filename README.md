@@ -221,3 +221,131 @@ Every day I learn something new and push myself to become a better engineer.
 ```
 
 ---
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AKASH-M-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-M-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AKASH-M-hub&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-M-hub&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AKASH-M-hub&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📌 Profile Overview
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/AKASH-M-hub?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 💻 Development Dashboard
+
+<div align="center">
+
+| Category | Status |
+|----------|--------|
+| 🧠 AI Engineering | ██████████ 90% |
+| 🤖 Machine Learning | █████████░ 88% |
+| ☕ Java | █████████░ 87% |
+| 🐍 Python | ██████████ 91% |
+| ⚛ React | ████████░░ 80% |
+| ⚡ FastAPI | █████████░ 86% |
+| 🗄 SQL | ████████░░ 82% |
+| 📊 Data Science | ██████████ 90% |
+
+</div>
+
+---
+
+# 🧩 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/212224230013/">
+
+<img src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest"/>
+
+</a>
+
+</div>
+
+---
+
+# 🌎 Connect Across Platforms
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 Portfolio | https://akash-my-portfolio.vercel.app |
+| 💼 LinkedIn | https://www.linkedin.com/in/akash-m-162414324/ |
+| 💻 GitHub | https://github.com/AKASH-M-hub |
+| 🧩 LeetCode | https://leetcode.com/u/212224230013/ |
+| 📧 Email | akashmohanraj333@gmaill.com |
+
+</div>
+
+---
