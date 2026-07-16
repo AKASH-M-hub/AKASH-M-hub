@@ -809,11 +809,27 @@ I'd love to collaborate.
 
 ---
 
-# 🎯 Motto
+<div align="center">
+
+<img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&section=header&text=Building%20Intelligent%20Systems&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+
+</div>
+
+<h2 align="center">
+
+⚡ Learn Deeply • Build Consistently • Share Openly ⚡
+
+</h2>
+
+<p align="center">
+
+<img width="700" src="YOUR_AI_IMAGE"/>
+
+</p>
 
 <div align="center">
 
-### "Learn Deeply • Build Consistently • Share Openly"
+> **"The future belongs to those who build intelligence, not just software."**
 
 </div>
 
