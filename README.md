@@ -12,15 +12,11 @@
 Hi 👋 I'm Akash Mohanraj
 </h1>
 
-<h3 align="center">
-Artificial Intelligence Engineer • Machine Learning • Data Science • Java Developer
-</h3>
-
 ---
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Explorer;Java+Backend+Developer;Open+Source+Contributor;Building+AI+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+and+ML+Engineer;Data+Analyst+and+scientist;Full+Stack+Developer;Building+real+world+projects;Building+AI+Products;Always+Learning+Something+New"/>
 
 </p>
 
@@ -60,17 +56,14 @@ Artificial Intelligence Engineer • Machine Learning • Data Science • Java 
 
 📈 Machine Learning Enthusiast
 
-☁ Exploring Cloud Technologies
-
 🧠 Learning LLMs & RAG
 
-🔥 Java Backend Developer
+🔥 Full stack & Java Developer
 
 📚 Solving DSA every day
 
 🏆 Hackathon Finalist
 
-🌱 Open Source Learner
 
 ---
 
@@ -207,43 +200,13 @@ Artificial Intelligence Engineer • Machine Learning • Data Science • Java 
 
 ✔ System Design
 
-✔ Open Source
 ```
 
 ---
 
-# ⚡ Fun Fact
+-- ===================================================== -->
 
-```text
-I love building AI products that solve real-world problems.
 
-Every day I learn something new and push myself to become a better engineer.
-```
-
----
-<!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
-<!-- ===================================================== -->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AKASH-M-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-M-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AKASH-M-hub&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -253,17 +216,7 @@ Every day I learn something new and push myself to become a better engineer.
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AKASH-M-hub&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
 
 # 📌 Profile Overview
 
@@ -301,26 +254,11 @@ Every day I learn something new and push myself to become a better engineer.
 
 ---
 
-# 💻 Development Dashboard
 
-<div align="center">
-
-| Category | Status |
-|----------|--------|
-| 🧠 AI Engineering | ██████████ 90% |
-| 🤖 Machine Learning | █████████░ 88% |
-| ☕ Java | █████████░ 87% |
-| 🐍 Python | ██████████ 91% |
-| ⚛ React | ████████░░ 80% |
-| ⚡ FastAPI | █████████░ 86% |
-| 🗄 SQL | ████████░░ 82% |
-| 📊 Data Science | ██████████ 90% |
-
-</div>
-
----
 
 # 🧩 Competitive Programming
+
+# Leetcode
 
 <div align="center">
 
@@ -388,15 +326,15 @@ Enterprise AI platform powered by FastAPI, PostgreSQL, ChromaDB, LangChain and i
 
 <td width="50%">
 
-<h3 align="center">❤️ Heart Disease Prediction</h3>
+<h3 align="center">❤️ Silent Disease Onset Predictor</h3>
 
 <p align="center">
 
-Machine Learning application that predicts heart disease using multiple classification algorithms.
+Predict Health Risks Before Symptoms Appear
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
@@ -416,15 +354,15 @@ Machine Learning application that predicts heart disease using multiple classifi
 
 <td width="50%">
 
-<h3 align="center">🌦 Weather Prediction System</h3>
+<h3 align="center"> Chrono </h3>
 
 <p align="center">
 
-Machine learning project predicting weather conditions with visualization dashboards.
+Trade Your Knowledge Grow Your Skills
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RandomForest-2E8B57?style=for-the-badge"/>
 
@@ -440,17 +378,16 @@ Machine learning project predicting weather conditions with visualization dashbo
 
 <td width="50%">
 
-<h3 align="center">⚛ Quantum Entanglement Simulator</h3>
+<h3 align="center">⚛ OneLink.ai</h3>
 
 <p align="center">
 
-Interactive simulator demonstrating quantum entanglement concepts using modern visualization.
+One Link - Powered by Context.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quantum-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
 
 <br><br>
 
@@ -470,20 +407,6 @@ Interactive simulator demonstrating quantum entanglement concepts using modern v
 
 ---
 
-# 🏅 Certifications
-
-<div align="center">
-
-| Certification | Status |
-|----------------|--------|
-| ☕ Oracle Java SE 21 | ✅ |
-| 🤖 AI & Machine Learning | ✅ |
-| 💻 HCL Campus Ambassador | ✅ |
-| 🏆 Hackathon Finalist | ✅ |
-
-</div>
-
----
 
 # 🏆 Achievements
 
@@ -497,74 +420,22 @@ Interactive simulator demonstrating quantum entanglement concepts using modern v
 
 ---
 
-# 📚 Currently Learning
 
-```text
-🧠 Large Language Models (LLMs)
-
-🤖 Agentic AI
-
-📄 Retrieval-Augmented Generation (RAG)
-
-☁ Cloud Computing
-
-⚙ System Design
-
-🐳 Docker
-
-☸ Kubernetes
-
-🚀 MLOps
-```
-
----
-
-# 💡 Areas of Interest
-
-<div align="center">
-
-Artificial Intelligence • Machine Learning • Deep Learning • Data Science • Computer Vision • NLP • LLMs • RAG • Agentic AI • Backend Engineering • Distributed Systems • Open Source
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Publish impactful open-source AI projects.
-- 💼 Secure a Software Engineer / AI Engineer internship.
-- 📚 Strengthen DSA and System Design skills.
-- 🌍 Contribute to open-source communities.
-- ☁ Gain cloud and MLOps expertise.
-- 🤝 Build solutions that solve real-world problems.
-
----
-
-# 📜 Quote
-
-<div align="center">
-
-> *"The best way to predict the future is to build it."*
-
-</div>
-
----
 <!-- ====================================================== -->
 <!--                 OPEN SOURCE JOURNEY                    -->
 <!-- ====================================================== -->
 
-# 🌟 Open Source Journey
+# 🌟 My Journey
 
 ```text
 2024  ██████████ Started Programming
 
 2025  ███████████████ AI & Machine Learning Projects
 
-2026  █████████████████ Hackathons • Open Source • AI Agents
+2026  █████████████████ Gaining skills
 
-2027  █████████████████████ Internships • Research
+2027  █████████████████████ Internships 
 
-2028  █████████████████████████ Software Engineer
 ```
 
 ---
@@ -591,8 +462,6 @@ title Engineering Journey
 2026 : Agentic AI
 
 2026 : LLM
-
-2026 : Open Source
 
 2027 : Software Engineering
 
@@ -671,6 +540,7 @@ If you like my work
 
 ### 🤖 AI & ML Domain
 
+
 - Agentic AI
 - LLM Applications
 - RAG Systems
@@ -697,6 +567,7 @@ If you like my work
 <td width="33%">
 
 ### 📊 Data Science / Analytics Domain
+
 
 - Machine Learning
 - Deep Learning
