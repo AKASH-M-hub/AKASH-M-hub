@@ -80,7 +80,7 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p>
 
 <a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -104,31 +104,23 @@
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">
-
 ## 💡 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql"/>
-
-<br><br>
 
 ## ⚙️ Frameworks & Databases
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres"/>
 
-<br><br>
-
 ## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
@@ -140,53 +132,37 @@
 
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
 
-</div>
-
 ---
 
 # 🛠️ Tools & Technologies
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma"/>
-
-</div>
 
 ---
 
 # 🎯 Current Focus
 
-<div align="center">
-
-| 🚀 Currently Exploring |
-|:----------------------:|
-| 🤖 Artificial Intelligence |
-| 🧠 Machine Learning |
-| 🔥 Deep Learning |
-| 📚 Large Language Models (LLMs) |
-| 🔍 Retrieval-Augmented Generation (RAG) |
-| ⚡ Agentic AI |
-| 🚀 FastAPI |
-| ☕ Java & Data Structures |
-| 🏗️ System Design |
-
-</div>
+<ul>
+<li>🤖 Artificial Intelligence</li>
+<li>🧠 Machine Learning</li>
+<li>🔥 Deep Learning</li>
+<li>📚 Large Language Models (LLMs)</li>
+<li>🔍 Retrieval-Augmented Generation (RAG)</li>
+<li>⚡ Agentic AI</li>
+<li>🚀 FastAPI</li>
+<li>☕ Java & Data Structures</li>
+<li>🏗️ System Design</li>
+</ul>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-M-hub&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
 # 📊 GitHub Overview
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6"/>
 
@@ -194,17 +170,13 @@
 
 <img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow"/>
 
-</div>
-
 ---
 
 # 📊 Coding Activity
 
-<div align="center">
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
 
-<br><br>
+<br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
 
@@ -212,13 +184,9 @@
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
 
-</div>
-
 ---
 
 # 🧩 Competitive Programming
-
-<div align="center">
 
 ### 💻 LeetCode Profile
 
@@ -228,13 +196,11 @@
 
 </a>
 
-</div>
-
 ---
 
 # 🌐 Connect Across Platforms
 
-<div align="center">
+<p>
 
 <a href="https://akash-my-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
@@ -256,19 +222,17 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ## 🧠 Crowd Flow Management Prediction System
 
@@ -292,7 +256,7 @@ Predict crowd density using **MLP, Neural Networks & Deep Learning**.
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ## ❤️ Silent Disease Onset Predictor
 
@@ -372,7 +336,6 @@ One Link. Powered by Context.
 
 </table>
 
-</div>
 
 ---
 
@@ -380,10 +343,8 @@ One Link. Powered by Context.
 
 # 🏆 Achievements
 
-<div align="center">
-
 | 🏅 Achievement | Status |
-|:--------------|:------:|
+|---------------|:------|
 | 🚀 Built Multiple AI & Machine Learning Applications | ✅ |
 | 🏆 Hackathon Finalist | ✅ |
 | 🎓 AI & Data Science Undergraduate | ✅ |
@@ -392,13 +353,9 @@ One Link. Powered by Context.
 | 🤖 Exploring Agentic AI & RAG Systems | 🚀 |
 | 📚 Solving Data Structures & Algorithms Daily | 💯 |
 
-</div>
-
 ---
 
 # 🌟 My Journey
-
-<div align="center">
 
 ```text
 2024   ██████████        Started Programming
@@ -409,8 +366,6 @@ One Link. Powered by Context.
 
 2027   █████████████████ Software Engineering Journey
 ```
-
-</div>
 
 ---
 
@@ -442,7 +397,7 @@ title My Engineering Journey
 
 # ❤️ Support My Work
 
-<div align="center">
+<p>
 
 If you enjoy my projects, consider supporting them by
 
@@ -454,23 +409,17 @@ If you enjoy my projects, consider supporting them by
 
 💬 **Sharing** feedback
 
-</div>
+</p>
 
 ---
 
 # 🐍 GitHub Contribution Snake
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
 # 🚀 What I Learn & Build
-
-<div align="center">
 
 <table>
 
@@ -520,13 +469,11 @@ If you enjoy my projects, consider supporting them by
 
 </table>
 
-</div>
-
 ---
 
 # 💼 Open To Opportunities
 
-<div align="center">
+<p>
 
 <img src="https://img.shields.io/badge/AI%20Engineer-Open-success?style=for-the-badge"/>
 
@@ -536,13 +483,11 @@ If you enjoy my projects, consider supporting them by
 
 <img src="https://img.shields.io/badge/Full%20Stack-Open-success?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
 # 🤝 Let's Build Together
-
-<div align="center">
 
 ### Interested in collaborating on
 
@@ -554,11 +499,7 @@ If you enjoy my projects, consider supporting them by
 
 **Let's build impactful technology together.**
 
-</div>
-
 ---
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
@@ -572,4 +513,3 @@ If you enjoy my projects, consider supporting them by
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364"/>
 
-</div>
