@@ -17,13 +17,21 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://leetcode.com/u/212224230013/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
 <img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -202,15 +210,25 @@
 
 <p>
 
+<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+</a>
 
+<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
+<a href="https://github.com/AKASH-M-hub" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="https://leetcode.com/u/212224230013/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
 <img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
