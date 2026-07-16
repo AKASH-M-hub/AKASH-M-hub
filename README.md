@@ -385,8 +385,6 @@ title My Engineering Journey
      : Large Language Models
      : Full Stack Development
 
-2027 : Software Engineering
-     : Open Source
 ```
 
 ---
