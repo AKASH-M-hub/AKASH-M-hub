@@ -660,20 +660,8 @@ If you like my work
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
-</div>
-<!-- ===================================================== -->
-<!--             ENGINEERING PHILOSOPHY                    -->
-<!-- ===================================================== -->
 
-# 🧠 Engineering Philosophy
-
-> I believe software should solve real-world problems rather than simply demonstrate technical concepts.
->
-> My focus is on building scalable AI-powered applications that combine intelligent decision-making, clean architecture, and an exceptional user experience.
-
----
-
-# 🚀 What I'm Building
+# 🚀 What I learn & Create !
 
 <table>
 
@@ -681,7 +669,7 @@ If you like my work
 
 <td width="33%">
 
-### 🤖 AI Engineering
+### 🤖 AI & ML Domain
 
 - Agentic AI
 - LLM Applications
@@ -694,8 +682,9 @@ If you like my work
 
 <td width="33%">
 
-### 💻 Software Engineering
+### 💻 Software Engineering Domain
 
+- Data Structure & Algorithms
 - Backend APIs
 - System Design
 - Authentication
@@ -707,7 +696,7 @@ If you like my work
 
 <td width="33%">
 
-### 📊 Data Science
+### 📊 Data Science / Analytics Domain
 
 - Machine Learning
 - Deep Learning
@@ -724,70 +713,15 @@ If you like my work
 
 ---
 
-# ⚙ Tech Ecosystem
-
-<div align="center">
-
-```text
-                    +-------------------+
-                    |     Frontend      |
-                    | React • HTML • JS |
-                    +-------------------+
-                              │
-                              ▼
-                    +-------------------+
-                    |     FastAPI       |
-                    |   Backend APIs    |
-                    +-------------------+
-                              │
-              ┌───────────────┴───────────────┐
-              ▼                               ▼
-      PostgreSQL                      ChromaDB
-
-              ▼                               ▼
-               AI Orchestrator (LLMs)
-
-                        ▼
-
-              Intelligent AI Agents
-
-```
-
-</div>
-
----
-
-# 📈 Current Focus
-
-```text
-Building production-ready AI systems
-
-Learning distributed system design
-
-Mastering backend engineering
-
-Open-source contributions
-
-Competitive programming
-
-Cloud-native applications
-```
-
----
-
 # 💼 Looking For
 
-✔ AI Engineer Internship
+✔ AI Engineer Role
 
-✔ Machine Learning Internship
+✔ Machine Learning Role
 
-✔ Software Engineering Internship
+✔ Software Engineering Role
 
-✔ Backend Engineering Internship
-
-✔ Open Source Collaborations
-
-✔ Research Opportunities
+✔ Full Stack Developer Role
 
 ---
 
