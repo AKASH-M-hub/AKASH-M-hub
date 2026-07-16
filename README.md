@@ -7,9 +7,9 @@
 # 👋 Hi, I'm Akash M
 
 
-<img width="92%" src="./images/intro-preview.gif" alt="Looping intro preview"/>
+<img width="92%" src="./images/intro-preview.gif" alt="Looping intro preview" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New" style="pointer-events: none;" draggable="false"/>
 
 </div>
 
@@ -18,19 +18,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://leetcode.com/u/212224230013/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://akash-my-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
-<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="pointer-events: none;" draggable="false"/>
 </a>
 
 </div>
@@ -67,7 +67,7 @@
 
 <td width="40%" align="center">
 
-<img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" style="pointer-events: none;" draggable="false"/>
 
 </td>
 
@@ -82,42 +82,42 @@
 
 ## 💡 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql" style="pointer-events: none;" draggable="false"/>
 
 ## ⚙️ Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres" style="pointer-events: none;" draggable="false"/>
 
 ## 🤖 AI / Machine Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </div>
 
 ---
 # 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma" style="pointer-events: none;" draggable="false"/>
 
 ---
 
@@ -139,17 +139,17 @@
 
 # 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-M-hub&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-M-hub&theme=tokyo-night&hide_border=true" style="pointer-events: none;" draggable="false"/>
 
 ---
 
 # 📊 GitHub Overview
 
-<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge&color=blue" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow"/>
+<img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow" style="pointer-events: none;" draggable="false"/>
 
 ---
 
@@ -157,21 +157,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
 
 <table>
 <tr>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
 </td>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AKASH-M-hub&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
 </td>
 
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AKASH-M-hub&theme=tokyonight&utcOffset=5.5" style="pointer-events: none;" draggable="false"/>
 </td>
 
 </tr>
@@ -189,7 +189,7 @@
 <tr>
 <td width="68%" valign="top">
 
-<img width="100%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest" alt="LeetCode stats"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest" alt="LeetCode stats" style="pointer-events: none;" draggable="false"/>
 
 </td>
 
@@ -211,23 +211,23 @@
 <p>
 
 <a href="https://akash-my-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://github.com/AKASH-M-hub" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://leetcode.com/u/212224230013/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" style="pointer-events: none;" draggable="false"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
-<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail" style="pointer-events: none;" draggable="false"/>
 </a>
 
 </p>
@@ -248,17 +248,17 @@ Predict crowd density using **MLP, Neural Networks & Deep Learning**.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 <br><br>
 
 <a href="https://github.com/AKASH-M-hub/crowd_flow_management_prediction_system">
 
-<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </a>
 
@@ -272,17 +272,17 @@ Predict health risks before symptoms appear.
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" style="pointer-events: none;" draggable="false"/>
 
 <br><br>
 
 <a href="https://health-gardian.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </a>
 
@@ -300,17 +300,17 @@ Trade your knowledge. Grow your skills.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Learning-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-6A1B9A?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Community-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Community-FF9800?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 <br><br>
 
 <a href="https://chrono-barter.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </a>
 
@@ -324,17 +324,17 @@ One Link. Powered by Context.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Productivity-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Productivity-007ACC?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 <br><br>
 
 <a href="https://onelinkai.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </a>
 
@@ -409,7 +409,7 @@ If you enjoy my projects, consider supporting them by
 
 # 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg" style="pointer-events: none;" draggable="false"/>
 
 ---
 
@@ -469,13 +469,13 @@ If you enjoy my projects, consider supporting them by
 
 <p>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-Open-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Open-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Software%20Engineer-Open-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineer-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Open-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
 
 </p>
 
@@ -495,7 +495,7 @@ If you enjoy my projects, consider supporting them by
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=ffffff&animation=twinkling" style="pointer-events: none;" draggable="false"/>
 
 <br><br>
 
@@ -505,5 +505,5 @@ If you enjoy my projects, consider supporting them by
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364" style="pointer-events: none;" draggable="false"/>
 
