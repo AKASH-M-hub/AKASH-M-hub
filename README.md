@@ -349,3 +349,203 @@ Every day I learn something new and push myself to become a better engineer.
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🧠 Cogniva Enterprise Intelligence Platform</h3>
+
+<p align="center">
+
+Enterprise AI platform powered by FastAPI, PostgreSQL, ChromaDB, LangChain and intelligent AI Agents.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/AKASH-M-hub">
+<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">❤️ Heart Disease Prediction</h3>
+
+<p align="center">
+
+Machine Learning application that predicts heart disease using multiple classification algorithms.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<br><br>
+
+<a href="https://github.com/AKASH-M-hub">
+<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🌦 Weather Prediction System</h3>
+
+<p align="center">
+
+Machine learning project predicting weather conditions with visualization dashboards.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RandomForest-2E8B57?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/AKASH-M-hub">
+<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">⚛ Quantum Entanglement Simulator</h3>
+
+<p align="center">
+
+Interactive simulator demonstrating quantum entanglement concepts using modern visualization.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quantum-000000?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/AKASH-M-hub">
+<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+| Certification | Status |
+|----------------|--------|
+| ☕ Oracle Java SE 21 | ✅ |
+| 🤖 AI & Machine Learning | ✅ |
+| 💻 HCL Campus Ambassador | ✅ |
+| 🏆 Hackathon Finalist | ✅ |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Built multiple AI & Machine Learning applications.
+- 🏅 Hackathon Finalist.
+- 🎓 AI & Data Science Undergraduate.
+- ☕ Oracle Java SE 21 Certified.
+- 💼 HCL Campus Ambassador.
+- 🤖 Exploring Agentic AI and RAG systems.
+- 📈 Actively solving Data Structures & Algorithms.
+
+---
+
+# 📚 Currently Learning
+
+```text
+🧠 Large Language Models (LLMs)
+
+🤖 Agentic AI
+
+📄 Retrieval-Augmented Generation (RAG)
+
+☁ Cloud Computing
+
+⚙ System Design
+
+🐳 Docker
+
+☸ Kubernetes
+
+🚀 MLOps
+```
+
+---
+
+# 💡 Areas of Interest
+
+<div align="center">
+
+Artificial Intelligence • Machine Learning • Deep Learning • Data Science • Computer Vision • NLP • LLMs • RAG • Agentic AI • Backend Engineering • Distributed Systems • Open Source
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Publish impactful open-source AI projects.
+- 💼 Secure a Software Engineer / AI Engineer internship.
+- 📚 Strengthen DSA and System Design skills.
+- 🌍 Contribute to open-source communities.
+- ☁ Gain cloud and MLOps expertise.
+- 🤝 Build solutions that solve real-world problems.
+
+---
+
+# 📜 Quote
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+
+</div>
+
+---
