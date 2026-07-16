@@ -4,141 +4,131 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=AKASH%20MOHANRAJ&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20|%20Machine%20Learning%20|%20Java%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=AKASH%20MOHANRAJ&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20Engineer%20|%20Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+
+# 👋 Hi, I'm Akash Mohanraj
+
+### 🚀 AI Engineer • Machine Learning • Data Science • Full Stack Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New"/>
 
 </div>
 
-<h1 align="center">
-Hi 👋 I'm Akash M
-</h1>
-
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+/+ML+Engineer;Data+Analyst+/+scientist;Full+Stack+Developer;Building+real+world+projects;Building+AI+Products;Always+Learning+Something+New"/>
-
-</p>
-
----
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/akash-m-162414324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/212224230013/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/212224230013/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://akash-my-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:akashmohanraj333@gmaill.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 🚀 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
 
-<p align="center">
+<tr>
 
-🎓 AI & Data Science Undergraduate<br>
-💻 Passionate about Artificial Intelligence<br>
-🤖 Building AI Agents<br>
-📈 Machine Learning Enthusiast<br>
-🧠 Learning LLMs & RAG<br>
-🔥 Full stack & Java Developer<br>
-📚 Solving DSA Problems every day<br>
+<td width="60%" valign="top">
+
+🎓 **AI & Data Science Undergraduate**
+
+💻 Passionate about **Artificial Intelligence**
+
+🤖 Building **AI Agents & Intelligent Applications**
+
+📈 Machine Learning Enthusiast
+
+🧠 Exploring **LLMs & Retrieval-Augmented Generation (RAG)**
+
+🔥 Full Stack & Java Developer
+
+📚 Solving **Data Structures & Algorithms** every day
+
 🏆 Hackathon Finalist
 
-</p>
+🌱 Always learning new technologies and building impactful solutions
 
+</td>
+
+<td width="40%" align="center">
+
+<img width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/akash-m-162414324/">
+<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:akashmohanraj333@gmaill.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/AKASH-M-hub">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+&nbsp;&nbsp;
+
+<a href="https://akash-my-portfolio.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
+<div align="center">
 
-<p>
+## 💡 Languages
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+## ⚙️ Frameworks & Databases
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase,mongodb,postgres"/>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
+<br><br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
@@ -150,50 +140,39 @@ Hi 👋 I'm Akash M
 
 <img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## Tools
+# 🛠️ Tools & Technologies
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-<p align="center">
+<div align="center">
 
-✔ Artificial Intelligence<br>
-✔ Machine Learning<br>
-✔ Deep Learning<br>
-✔ Large Language Models<br>
-✔ Retrieval Augmented Generation<br>
-✔ Agentic AI<br>
-✔ FastAPI<br>
-✔ Java DSA<br>
-✔ System Design
+| 🚀 Currently Exploring |
+|:----------------------:|
+| 🤖 Artificial Intelligence |
+| 🧠 Machine Learning |
+| 🔥 Deep Learning |
+| 📚 Large Language Models (LLMs) |
+| 🔍 Retrieval-Augmented Generation (RAG) |
+| ⚡ Agentic AI |
+| 🚀 FastAPI |
+| ☕ Java & Data Structures |
+| 🏗️ System Design |
 
-</p>
+</div>
 
 ---
-
 
 # 📈 Contribution Graph
 
@@ -203,33 +182,29 @@ Hi 👋 I'm Akash M
 
 </div>
 
+---
 
-
-# 📌 Profile Overview
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=AKASH-M-hub&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AKASH-M-hub?style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/AKASH-M-hub?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/AKASH-M-hub?style=for-the-badge&color=yellow"/>
 
 </div>
 
 ---
 
-# 🚀 Coding Activity
+# 📊 Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-M-hub&theme=tokyonight"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-M-hub&theme=tokyonight"/>
 
@@ -241,17 +216,15 @@ Hi 👋 I'm Akash M
 
 ---
 
-
-
 # 🧩 Competitive Programming
-
-# Leetcode
 
 <div align="center">
 
-<a href="https://leetcode.com/u/212224230013/">
+### 💻 LeetCode Profile
 
-<img src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest"/>
+<a href="https://leetcode.com/u/212224230013/" target="_blank">
+
+<img width="70%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest"/>
 
 </a>
 
@@ -259,24 +232,33 @@ Hi 👋 I'm Akash M
 
 ---
 
-# 🌎 Connect Across Platforms
+# 🌐 Connect Across Platforms
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 Portfolio | https://akash-my-portfolio.vercel.app |
-| 💼 LinkedIn | https://www.linkedin.com/in/akash-m-162414324/ |
-| 💻 GitHub | https://github.com/AKASH-M-hub |
-| 🧩 LeetCode | https://leetcode.com/u/212224230013/ |
-| 📧 Email | akashmohanraj333@gmaill.com |
+<a href="https://akash-my-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akash-m-162414324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/AKASH-M-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/212224230013/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:akashmohanraj333@gmaill.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
-<!-- ===================================================== -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ===================================================== -->
 
 # 🚀 Featured Projects
 
@@ -286,52 +268,51 @@ Hi 👋 I'm Akash M
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🧠 Crowd Flow Management Prediction System</h3>
+## 🧠 Crowd Flow Management Prediction System
 
-<p align="center">
+Predict crowd density using **MLP, Neural Networks & Deep Learning**.
 
-Enterprise AI platform powered by MLP,NN & DL Algorithms to predict the crowd at earlier
+<br>
 
-<br><br>
-
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
 
 <br><br>
 
-<a href="https://github.com/AKASH-M-hubcrowd_flow_management_prediction_system">
-<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
-</a>
+<a href="https://github.com/AKASH-M-hub/crowd_flow_management_prediction_system">
 
-</p>
+<img src="https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge"/>
+
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">❤️ Silent Disease Onset Predictor</h3>
+## ❤️ Silent Disease Onset Predictor
 
-<p align="center">
+Predict health risks before symptoms appear.
 
-Predict Health Risks Before Symptoms Appear
+<br>
 
-<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
 <br><br>
 
 <a href="https://health-gardian.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
 
 </td>
 
@@ -339,50 +320,51 @@ Predict Health Risks Before Symptoms Appear
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center"> Chrono </h3>
+## ⏳ Chrono
 
-<p align="center">
+Trade your knowledge. Grow your skills.
 
-Trade Your Knowledge Grow Your Skills
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RandomForest-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Community-FF9800?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://chrono-barter.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">⚛ OneLink.ai</h3>
+## ⚛️ OneLink.ai
 
-<p align="center">
+One Link. Powered by Context.
 
-One Link - Powered by Context.
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Productivity-007ACC?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://onelinkai.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
-</a>
 
-</p>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge"/>
+
+</a>
 
 </td>
 
@@ -394,141 +376,143 @@ One Link - Powered by Context.
 
 ---
 
+---
 
 # 🏆 Achievements
 
-- 🚀 Built multiple AI & Machine Learning applications.
-- 🏅 Hackathon Finalist.
-- 🎓 AI & Data Science Undergraduate.
-- ☕ Oracle Java SE 21 Certified.
-- 💼 HCL Campus Ambassador.
-- 🤖 Exploring Agentic AI and RAG systems.
-- 📈 Actively solving Data Structures & Algorithms.
+<div align="center">
+
+| 🏅 Achievement | Status |
+|:--------------|:------:|
+| 🚀 Built Multiple AI & Machine Learning Applications | ✅ |
+| 🏆 Hackathon Finalist | ✅ |
+| 🎓 AI & Data Science Undergraduate | ✅ |
+| ☕ Oracle Java SE 21 Certified | ✅ |
+| 💼 HCL Campus Ambassador | ✅ |
+| 🤖 Exploring Agentic AI & RAG Systems | 🚀 |
+| 📚 Solving Data Structures & Algorithms Daily | 💯 |
+
+</div>
 
 ---
-
-
-<!-- ====================================================== -->
-<!--                 OPEN SOURCE JOURNEY                    -->
-<!-- ====================================================== -->
 
 # 🌟 My Journey
 
-<p align="center">
+<div align="center">
 
-2024&nbsp;&nbsp;██████████ Started Programming<br>
-2025&nbsp;&nbsp;███████████████ AI & Machine Learning Projects<br>
-2026&nbsp;&nbsp;█████████████████ Gaining skills<br>
-2027&nbsp;&nbsp;█████████████████████ Internships
+```text
+2024   ██████████        Started Programming
 
-</p>
+2025   ███████████████   AI • ML • Hackathons
+
+2026   ████████████████  Full Stack • LLMs • Agentic AI
+
+2027   █████████████████ Software Engineering Journey
+```
+
+</div>
 
 ---
 
-# 📈 Development Timeline
+# 📈 Engineering Timeline
 
 ```mermaid
 timeline
 
-title Engineering Journey
+title My Engineering Journey
 
 2024 : Started Programming
+     : Java
+     : Python
 
-2024 : Java
-
-2024 : Python
-
-2025 : AI & ML
-
-2025 : Data Science
-
-2025 : Hackathons
+2025 : Artificial Intelligence
+     : Machine Learning
+     : Data Science
+     : Hackathons
 
 2026 : Agentic AI
-
-2026 : LLM
+     : Large Language Models
+     : Full Stack Development
 
 2027 : Software Engineering
-
+     : Open Source
 ```
 
 ---
 
-# ❤️ Support
-
-<p align="center">
-
-If you like my work<br>
-⭐ Star my repositories<br>
-🍴 Fork Projects<br>
-🤝 Let's collaborate
-
-</p>
-
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
+# ❤️ Support My Work
 
 <div align="center">
 
-### 💻 "Code-> Learn-> Build-> Repeat"
+If you enjoy my projects, consider supporting them by
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+⭐ **Starring** repositories
 
+🍴 **Forking** projects
 
-# 🚀 What I learn & Create !
+🤝 **Collaborating** on ideas
+
+💬 **Sharing** feedback
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 What I Learn & Build
+
+<div align="center">
 
 <table>
 
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🤖 AI & ML Domain
-
+### 🤖 AI & ML
 
 - Agentic AI
 - LLM Applications
-- RAG Systems
+- Retrieval-Augmented Generation
 - AI Automation
 - LangChain
-- MCP
+- Model Context Protocol (MCP)
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 💻 Software Engineering Domain
+### 💻 Software Engineering
 
-- Data Structure & Algorithms
-- Backend APIs
-- System Design
+- Data Structures & Algorithms
+- Backend Development
+- REST APIs
 - Authentication
 - Databases
+- System Design
 - Microservices
-- REST APIs
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 📊 Data Science / Analytics Domain
-
+### 📊 Data Science
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- NLP
-- Time Series
-- Analytics
+- Natural Language Processing
+- Time Series Forecasting
+- Data Analytics
 
 </td>
 
@@ -536,45 +520,56 @@ If you like my work<br>
 
 </table>
 
----
-
-# 💼 Looking For
-
-<p align="center">
-
-✔ AI Engineer Role<br>
-✔ Machine Learning Role<br>
-✔ Software Engineering Role<br>
-✔ Full Stack Developer Role
-
-</p>
+</div>
 
 ---
 
-# 🌍 Let's Build Together
+# 💼 Open To Opportunities
 
-<p align="center">
+<div align="center">
 
-If you're working on<br>
-AI · Machine Learning · Open Source · Backend Systems · Developer Tools<br><br>
-I'd love to collaborate.
+<img src="https://img.shields.io/badge/AI%20Engineer-Open-success?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Machine%20Learning-Open-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Open-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Open-success?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Let's Build Together
+
+<div align="center">
+
+### Interested in collaborating on
+
+🤖 Artificial Intelligence • 🧠 Machine Learning • 🌍 Open Source
+
+⚙ Backend Engineering • 🚀 Full Stack Applications • 💡 Developer Tools
+
+<br>
+
+**Let's build impactful technology together.**
+
+</div>
 
 ---
 
 <div align="center">
 
-<img width="900" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&section=header&text=Building%20Intelligent%20Systems&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=170&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+
+<br><br>
+
+# ⚡ Learn Deeply • Build Consistently • Share Openly
+
+### *"Turning ideas into intelligent solutions through code."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364"/>
 
 </div>
-
-<h2 align="center">
-
-⚡ Learn Deeply • Build Consistently • Share Openly ⚡
-
-</h2>
-
-
-
----
