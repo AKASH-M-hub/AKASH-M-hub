@@ -184,13 +184,26 @@
 
 # 🧩 Competitive Programming
 
-### 💻 LeetCode Profile
+**LeetCode Profile:** [leetcode.com/u/212224230013](https://leetcode.com/u/212224230013/)
 
-<a href="https://leetcode.com/u/212224230013/" target="_blank">
+<table>
+<tr>
+<td width="68%" valign="top">
 
-<img width="70%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest" alt="LeetCode stats"/>
 
-</a>
+</td>
+
+<td width="32%" valign="top">
+
+- Solving DSA problems daily
+- Improving contest consistency
+- Practicing arrays, trees, graphs, and DP
+- Tracking progress on LeetCode
+
+</td>
+</tr>
+</table>
 
 ---
 
