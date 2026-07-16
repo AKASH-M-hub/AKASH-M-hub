@@ -9,14 +9,14 @@
 </div>
 
 <h1 align="center">
-Hi 👋 I'm Akash Mohanraj
+Hi 👋 I'm Akash M
 </h1>
 
 ---
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+and+ML+Engineer;Data+Analyst+and+scientist;Full+Stack+Developer;Building+real+world+projects;Building+AI+Products;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+/+ML+Engineer;Data+Analyst+/+scientist;Full+Stack+Developer;Building+real+world+projects;Building+AI+Products;Always+Learning+Something+New"/>
 
 </p>
 
@@ -48,21 +48,18 @@ Hi 👋 I'm Akash Mohanraj
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 AI & Data Science Undergraduate
+<p align="center">
 
-💻 Passionate about Artificial Intelligence
-
-🤖 Building AI Agents
-
-📈 Machine Learning Enthusiast
-
-🧠 Learning LLMs & RAG
-
-🔥 Full stack & Java Developer
-
-📚 Solving DSA every day
-
+🎓 AI & Data Science Undergraduate<br>
+💻 Passionate about Artificial Intelligence<br>
+🤖 Building AI Agents<br>
+📈 Machine Learning Enthusiast<br>
+🧠 Learning LLMs & RAG<br>
+🔥 Full stack & Java Developer<br>
+📚 Solving DSA Problems every day<br>
 🏆 Hackathon Finalist
+
+</p>
 
 
 ---
@@ -181,31 +178,21 @@ Hi 👋 I'm Akash Mohanraj
 
 # 🎯 Current Focus
 
-```text
-✔ Artificial Intelligence
+<p align="center">
 
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Large Language Models
-
-✔ Retrieval Augmented Generation
-
-✔ Agentic AI
-
-✔ FastAPI
-
-✔ Java DSA
-
+✔ Artificial Intelligence<br>
+✔ Machine Learning<br>
+✔ Deep Learning<br>
+✔ Large Language Models<br>
+✔ Retrieval Augmented Generation<br>
+✔ Agentic AI<br>
+✔ FastAPI<br>
+✔ Java DSA<br>
 ✔ System Design
 
-```
+</p>
 
 ---
-
--- ===================================================== -->
-
 
 
 # 📈 Contribution Graph
@@ -301,22 +288,22 @@ Hi 👋 I'm Akash Mohanraj
 
 <td width="50%">
 
-<h3 align="center">🧠 Cogniva Enterprise Intelligence Platform</h3>
+<h3 align="center">🧠 Crowd Flow Management Prediction System</h3>
 
 <p align="center">
 
-Enterprise AI platform powered by FastAPI, PostgreSQL, ChromaDB, LangChain and intelligent AI Agents.
+Enterprise AI platform powered by MLP,NN & DL Algorithms to predict the crowd at earlier
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge"/>
 
 <br><br>
 
-<a href="https://github.com/AKASH-M-hub">
+<a href="https://github.com/AKASH-M-hubcrowd_flow_management_prediction_system">
 <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
 </a>
 
@@ -340,7 +327,7 @@ Predict Health Risks Before Symptoms Appear
 
 <br><br>
 
-<a href="https://github.com/AKASH-M-hub">
+<a href="https://health-gardian.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
 </a>
 
@@ -368,7 +355,7 @@ Trade Your Knowledge Grow Your Skills
 
 <br><br>
 
-<a href="https://github.com/AKASH-M-hub">
+<a href="https://chrono-barter.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
 </a>
 
@@ -391,7 +378,7 @@ One Link - Powered by Context.
 
 <br><br>
 
-<a href="https://github.com/AKASH-M-hub">
+<a href="https://onelinkai.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge"/>
 </a>
 
@@ -427,16 +414,14 @@ One Link - Powered by Context.
 
 # 🌟 My Journey
 
-```text
-2024  ██████████ Started Programming
+<p align="center">
 
-2025  ███████████████ AI & Machine Learning Projects
+2024&nbsp;&nbsp;██████████ Started Programming<br>
+2025&nbsp;&nbsp;███████████████ AI & Machine Learning Projects<br>
+2026&nbsp;&nbsp;█████████████████ Gaining skills<br>
+2027&nbsp;&nbsp;█████████████████████ Internships
 
-2026  █████████████████ Gaining skills
-
-2027  █████████████████████ Internships 
-
-```
+</p>
 
 ---
 
@@ -471,47 +456,16 @@ title Engineering Journey
 
 # ❤️ Support
 
-If you like my work
+<p align="center">
 
-⭐ Star my repositories
-
-🍴 Fork Projects
-
+If you like my work<br>
+⭐ Star my repositories<br>
+🍴 Fork Projects<br>
 🤝 Let's collaborate
 
----
+</p>
 
-# 📫 Reach Me
 
-<div align="center">
-
-<a href="mailto:akashmohanraj333@gmaill.com">
-
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/akash-m-162414324/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://akash-my-portfolio.vercel.app/">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-<a href="https://leetcode.com/u/212224230013/">
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -525,7 +479,7 @@ If you like my work
 
 <div align="center">
 
-### 💻 "Code. Learn. Build. Repeat."
+### 💻 "Code-> Learn-> Build-> Repeat"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
@@ -586,31 +540,26 @@ If you like my work
 
 # 💼 Looking For
 
-✔ AI Engineer Role
+<p align="center">
 
-✔ Machine Learning Role
-
-✔ Software Engineering Role
-
+✔ AI Engineer Role<br>
+✔ Machine Learning Role<br>
+✔ Software Engineering Role<br>
 ✔ Full Stack Developer Role
+
+</p>
 
 ---
 
 # 🌍 Let's Build Together
 
-If you're working on
+<p align="center">
 
-• AI
-
-• Machine Learning
-
-• Open Source
-
-• Backend Systems
-
-• Developer Tools
-
+If you're working on<br>
+AI · Machine Learning · Open Source · Backend Systems · Developer Tools<br><br>
 I'd love to collaborate.
+
+</p>
 
 ---
 
