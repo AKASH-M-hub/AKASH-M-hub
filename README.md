@@ -821,10 +821,6 @@ I'd love to collaborate.
 
 </h2>
 
-<p align="center">
 
-<img width="700" src="YOUR_AI_IMAGE"/>
-
-</p>
 
 ---
