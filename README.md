@@ -8,9 +8,7 @@
 
 ### AI Engineer • Machine Learning • Data Science • Full Stack Development
 
-<a href="./videos/Screen%20Recording%202026-07-16%20210355.mp4" target="_blank">
-<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0f2027,50:203a43,100:2c5364&text=▶%20Click%20to%20Open%20Intro%20Video&fontColor=ffffff&fontSize=38&fontAlignY=50&animation=fadeIn&desc=Banner%20video%20opens%20in%20a%20new%20tab&descAlignY=74" alt="Open intro video"/>
-</a>
+<img width="92%" src="./images/intro-preview.gif" alt="Looping intro preview"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New"/>
 
