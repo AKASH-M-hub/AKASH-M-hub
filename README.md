@@ -115,10 +115,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
