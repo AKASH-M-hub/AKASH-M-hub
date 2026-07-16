@@ -549,3 +549,115 @@ Artificial Intelligence • Machine Learning • Deep Learning • Data Science 
 </div>
 
 ---
+<!-- ====================================================== -->
+<!--                 OPEN SOURCE JOURNEY                    -->
+<!-- ====================================================== -->
+
+# 🌟 Open Source Journey
+
+```text
+2024  ██████████ Started Programming
+
+2025  ███████████████ AI & Machine Learning Projects
+
+2026  █████████████████ Hackathons • Open Source • AI Agents
+
+2027  █████████████████████ Internships • Research
+
+2028  █████████████████████████ Software Engineer
+```
+
+---
+
+# 📈 Development Timeline
+
+```mermaid
+timeline
+
+title Engineering Journey
+
+2024 : Started Programming
+
+2024 : Java
+
+2024 : Python
+
+2025 : AI & ML
+
+2025 : Data Science
+
+2025 : Hackathons
+
+2026 : Agentic AI
+
+2026 : LLM
+
+2026 : Open Source
+
+2027 : Software Engineering
+
+```
+
+---
+
+# ❤️ Support
+
+If you like my work
+
+⭐ Star my repositories
+
+🍴 Fork Projects
+
+🤝 Let's collaborate
+
+---
+
+# 📫 Reach Me
+
+<div align="center">
+
+<a href="mailto:akashmohanraj333@gmaill.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/akash-m-162414324/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://akash-my-portfolio.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="https://leetcode.com/u/212224230013/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+</div>
