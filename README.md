@@ -661,3 +661,160 @@ If you like my work
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
 </div>
+<!-- ===================================================== -->
+<!--             ENGINEERING PHILOSOPHY                    -->
+<!-- ===================================================== -->
+
+# 🧠 Engineering Philosophy
+
+> I believe software should solve real-world problems rather than simply demonstrate technical concepts.
+>
+> My focus is on building scalable AI-powered applications that combine intelligent decision-making, clean architecture, and an exceptional user experience.
+
+---
+
+# 🚀 What I'm Building
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### 🤖 AI Engineering
+
+- Agentic AI
+- LLM Applications
+- RAG Systems
+- AI Automation
+- LangChain
+- MCP
+
+</td>
+
+<td width="33%">
+
+### 💻 Software Engineering
+
+- Backend APIs
+- System Design
+- Authentication
+- Databases
+- Microservices
+- REST APIs
+
+</td>
+
+<td width="33%">
+
+### 📊 Data Science
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Time Series
+- Analytics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙ Tech Ecosystem
+
+<div align="center">
+
+```text
+                    +-------------------+
+                    |     Frontend      |
+                    | React • HTML • JS |
+                    +-------------------+
+                              │
+                              ▼
+                    +-------------------+
+                    |     FastAPI       |
+                    |   Backend APIs    |
+                    +-------------------+
+                              │
+              ┌───────────────┴───────────────┐
+              ▼                               ▼
+      PostgreSQL                      ChromaDB
+
+              ▼                               ▼
+               AI Orchestrator (LLMs)
+
+                        ▼
+
+              Intelligent AI Agents
+
+```
+
+</div>
+
+---
+
+# 📈 Current Focus
+
+```text
+Building production-ready AI systems
+
+Learning distributed system design
+
+Mastering backend engineering
+
+Open-source contributions
+
+Competitive programming
+
+Cloud-native applications
+```
+
+---
+
+# 💼 Looking For
+
+✔ AI Engineer Internship
+
+✔ Machine Learning Internship
+
+✔ Software Engineering Internship
+
+✔ Backend Engineering Internship
+
+✔ Open Source Collaborations
+
+✔ Research Opportunities
+
+---
+
+# 🌍 Let's Build Together
+
+If you're working on
+
+• AI
+
+• Machine Learning
+
+• Open Source
+
+• Backend Systems
+
+• Developer Tools
+
+I'd love to collaborate.
+
+---
+
+# 🎯 Motto
+
+<div align="center">
+
+### "Learn Deeply • Build Consistently • Share Openly"
+
+</div>
+
+---
