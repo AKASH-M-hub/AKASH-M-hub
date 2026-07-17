@@ -119,21 +119,6 @@
 
 ---
 
-# 🎯 Current Focus
-
-<ul>
-<li>🤖 Artificial Intelligence</li>
-<li>🧠 Machine Learning</li>
-<li>🔥 Deep Learning</li>
-<li>📚 Large Language Models (LLMs)</li>
-<li>🔍 Retrieval-Augmented Generation (RAG)</li>
-<li>⚡ Agentic AI</li>
-<li>🚀 FastAPI</li>
-<li>☕ Java & Data Structures</li>
-<li>🏗️ System Design</li>
-</ul>
-
----
 
 # 📈 Contribution Graph
 
@@ -179,58 +164,6 @@
 
 ---
 
-# 🧩 Competitive Programming
-
-**LeetCode Profile:** [leetcode.com/u/212224230013](https://leetcode.com/u/212224230013/)
-
-<table>
-<tr>
-<td width="68%" valign="top">
-
-<img width="100%" src="https://leetcard.jacoblin.cool/212224230013?theme=dark&font=Nunito&ext=contest" alt="LeetCode stats" style="pointer-events: none;" draggable="false"/>
-
-</td>
-
-<td width="32%" valign="top">
-
-- Solving DSA problems daily
-- Improving contest consistency
-- Practicing arrays, trees, graphs, and DP
-- Tracking progress on LeetCode
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌐 Connect Across Platforms
-
-<p>
-
-<a href="https://akash-my-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akash-m-162414324/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" style="pointer-events: none;" draggable="false"/>
-</a>
-
-<a href="https://github.com/AKASH-M-hub" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" style="pointer-events: none;" draggable="false"/>
-</a>
-
-<a href="https://leetcode.com/u/212224230013/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" style="pointer-events: none;" draggable="false"/>
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashmohanraj333%40gmail.com&su=Hello%20Akash&body=Hi%20Akash%2C%0A%0AI%20wanted%20to%20reach%20out%20about%20..." target="_blank">
-<img src="https://img.shields.io/badge/Compose_Email-EA4335?style=for-the-badge&logo=gmail" style="pointer-events: none;" draggable="false"/>
-</a>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -345,47 +278,6 @@ One Link. Powered by Context.
 
 ---
 
----
-
-
-
-# 🌟 My Journey
-
-```text
-2024   ██████████        Started Programming
-
-2025   ███████████████   AI • ML • Hackathons
-
-2026   ████████████████  Full Stack • LLMs • Agentic AI
-
-2027   █████████████████ Software Engineering Journey
-```
-
----
-
-# 📈 Engineering Timeline
-
-```mermaid
-timeline
-
-title My Engineering Journey
-
-2024 : Started Programming
-     : Java
-     : Python
-
-2025 : Artificial Intelligence
-     : Machine Learning
-     : Data Science
-     : Hackathons
-
-2026 : Agentic AI
-     : Large Language Models
-     : Full Stack Development
-
-```
-
----
 
 # ❤️ Support My Work
 
@@ -409,73 +301,6 @@ If you enjoy my projects, consider supporting them by
 
 <img src="https://raw.githubusercontent.com/AKASH-M-hub/AKASH-M-hub/output/github-contribution-grid-snake-dark.svg" style="pointer-events: none;" draggable="false"/>
 
----
-
-# 🚀 What I Learn & Build
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🤖 AI & ML
-
-- Agentic AI
-- LLM Applications
-- Retrieval-Augmented Generation
-- AI Automation
-- LangChain
-- Model Context Protocol (MCP)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💻 Software Engineering
-
-- Data Structures & Algorithms
-- Backend Development
-- REST APIs
-- Authentication
-- Databases
-- System Design
-- Microservices
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📊 Data Science
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Time Series Forecasting
-- Data Analytics
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Open To Opportunities
-
-<p>
-
-<img src="https://img.shields.io/badge/AI%20Engineer-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
-
-<img src="https://img.shields.io/badge/Software%20Engineer-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Open-success?style=for-the-badge" style="pointer-events: none;" draggable="false"/>
-
-</p>
 
 ---
 
@@ -498,9 +323,6 @@ If you enjoy my projects, consider supporting them by
 <br><br>
 
 # ⚡ Learn Deeply • Build Consistently • Share Openly
-
-### *"Turning ideas into intelligent solutions through code."*
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364" style="pointer-events: none;" draggable="false"/>
