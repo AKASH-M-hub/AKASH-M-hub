@@ -7,8 +7,6 @@
 # 👋 Hi, I'm Akash M
 
 
-<img width="92%" src="./images/intro-preview.gif" alt="Looping intro preview" style="pointer-events: none;" draggable="false"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Data+Scientist;Full+Stack+Developer;Building+Real+World+Projects;Building+AI+Products;Always+Learning+Something+New" style="pointer-events: none;" draggable="false"/>
 
 </div>
